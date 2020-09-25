@@ -37,7 +37,7 @@ app.post("/", function(req, res) {
 
   const options = {
     method: "POST",
-    auth: "arashke:37649929963e0746ab3b5461c1ffeea5-us2"
+    auth: "KEY REMOVED FROM PUBLIC REPOSITORY"
 
   };
 
